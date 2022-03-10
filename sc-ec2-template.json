@@ -6,7 +6,7 @@
   "Parameters" : {
     "SubnetId": {
       "Description" : "SubnetId",
-      "Type": "AWS::EC2::Subnet::KeyName"
+      "Type": "AWS::EC2::Subnet::Id"
     },
 
     "KeyName": {
